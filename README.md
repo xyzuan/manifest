@@ -14,7 +14,7 @@ To initialize your local repository using the AospExtended trees, use a
 command like this:
 
 ```bash
-  repo init -u https://github.com/CAF-Extended/manifest -b 12.0
+  repo init -u https://github.com/xyzuan/manifest -b 12.0
 ```
 To initialize a shallow clone, which will save even more space & time, use a command like this:
 
