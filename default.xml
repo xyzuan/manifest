@@ -27,6 +27,10 @@
            fetch="https://gitlab.com/caf-extended"
            revision="refs/heads/12.0" />  
            		   
+   <remote  name="lineage"
+           fetch="https://github.com/LineageOS"
+           revision="refs/heads/lineage-19.0" />  
+	
   <project name="device/amlogic/yukawa"/>
   <project clone-depth="2" name="device/amlogic/yukawa-kernel"/>
   <project name="device/common"/>
